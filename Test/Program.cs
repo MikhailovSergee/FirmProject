@@ -10,7 +10,6 @@ namespace FirmProject
 
             var firm = new Firm();
 
-
             firm.Start();
         }
     }
