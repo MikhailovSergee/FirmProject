@@ -1,6 +1,6 @@
 ﻿namespace FirmProject
 {
-   public enum Position
+    public enum Position
     {
         Worker = 0,
         Manager = 1,

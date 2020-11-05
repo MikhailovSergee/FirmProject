@@ -96,7 +96,6 @@ namespace FirmProject
                 Console.WriteLine("Wrong experience");
             }
 
-
             Console.WriteLine("Enter Task");
             var task = Console.ReadLine();
 

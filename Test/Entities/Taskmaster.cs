@@ -5,7 +5,6 @@ namespace FirmProject
 {
     public class Taskmaster : Employee
     {
-       
         public Taskmaster(string _fistName, string _lastName, string _middleName, double _expirience, Position _position, string _task) :
           base(_fistName, _lastName, _middleName, _expirience, _position, _task)
         {}
